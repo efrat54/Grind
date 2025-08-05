@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05FDA8D1-E5B9-48A4-96CE-415713EDA9C3}|Grind\\Grind.Api.csproj|c:\\users\\merav\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\grind\\grind\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FDA8D1-E5B9-48A4-96CE-415713EDA9C3}|Grind\\Grind.Api.csproj|solutionrelative:grind\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E213068D-8A3E-4B6A-A813-DD5D096E13CC}|Grind.Service\\Grind.Service.csproj|c:\\users\\merav\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\grind\\grind.service\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E213068D-8A3E-4B6A-A813-DD5D096E13CC}|Grind.Service\\Grind.Service.csproj|solutionrelative:grind.service\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1216FE40-8DEF-4608-B409-E011DC10F13F}|Grind.Core\\Grind.Core.csproj|c:\\users\\merav\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\grind\\grind.core\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1216FE40-8DEF-4608-B409-E011DC10F13F}|Grind.Core\\Grind.Core.csproj|solutionrelative:grind.core\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.Classes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.People.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E213068D-8A3E-4B6A-A813-DD5D096E13CC}|Grind.Service\\Grind.Service.csproj|c:\\users\\merav\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\grind\\grind.service\\mappingprofiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E213068D-8A3E-4B6A-A813-DD5D096E13CC}|Grind.Service\\Grind.Service.csproj|solutionrelative:grind.service\\mappingprofiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.ClientPreferredClasses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBED525-92EC-4245-B7CB-4221A10D995D}|Grind.Data\\Grind.Data.csproj|c:\\users\\merav\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\grind\\grind.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBED525-92EC-4245-B7CB-4221A10D995D}|Grind.Data\\Grind.Data.csproj|solutionrelative:grind.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FDA8D1-E5B9-48A4-96CE-415713EDA9C3}|Grind\\Grind.Api.csproj|c:\\users\\merav\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\grind\\grind\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FDA8D1-E5B9-48A4-96CE-415713EDA9C3}|Grind\\Grind.Api.csproj|solutionrelative:grind\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.Admins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.Trainers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FDA8D1-E5B9-48A4-96CE-415713EDA9C3}|Grind\\Grind.Api.csproj|c:\\users\\merav\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\grind\\grind\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FDA8D1-E5B9-48A4-96CE-415713EDA9C3}|Grind\\Grind.Api.csproj|solutionrelative:grind\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Service\\Services\\ClassService.cs",
+              "RelativeDocumentMoniker": "Grind.Service\\Services\\ClassService.cs",
+              "ToolTip": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Service\\Services\\ClassService.cs*",
+              "RelativeToolTip": "Grind.Service\\Services\\ClassService.cs*",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAIwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:10:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClassService.cs",
+              "DocumentMoniker": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Core\\Interfaces\\IClassService.cs",
+              "RelativeDocumentMoniker": "Grind.Core\\Interfaces\\IClassService.cs",
+              "ToolTip": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Core\\Interfaces\\IClassService.cs*",
+              "RelativeToolTip": "Grind.Core\\Interfaces\\IClassService.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:09:49.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Classes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.Classes.sql",
+              "ToolTip": "dbo.Classes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-04T08:51:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.People [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.People.sql",
+              "ToolTip": "dbo.People [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-04T06:45:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Service\\MappingProfiles\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Grind.Service\\MappingProfiles\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Service\\MappingProfiles\\MapperProfile.cs",
+              "RelativeToolTip": "Grind.Service\\MappingProfiles\\MapperProfile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:39:22.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.ClientPreferredClasses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.ClientPreferredClasses.sql",
+              "ToolTip": "dbo.ClientPreferredClasses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-04T06:38:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Grind\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Grind\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:54:52.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Grind.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind.Data\\DataContext.cs",
+              "RelativeToolTip": "Grind.Data\\DataContext.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:19:18.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Grind\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind\\Controllers\\ClassesController.cs*",
+              "RelativeToolTip": "Grind\\Controllers\\ClassesController.cs*",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAiwM8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:52:07.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Admins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.Admins.sql",
+              "ToolTip": "dbo.Admins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-04T01:25:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Trainers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GrindDb/True/SqlTable/dbo.Trainers.sql",
+              "ToolTip": "dbo.Trainers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-04T01:24:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainersController.cs",
+              "DocumentMoniker": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind\\Controllers\\TrainersController.cs",
+              "RelativeDocumentMoniker": "Grind\\Controllers\\TrainersController.cs",
+              "ToolTip": "C:\\Users\\merav\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05D7\u05D3\u05E9 \u05DC\u05E2\u05D1\u05D5\u05D3 \u05E2\u05DC\u05D9\u05D5\\Grind\\Grind\\Controllers\\TrainersController.cs",
+              "RelativeToolTip": "Grind\\Controllers\\TrainersController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowJAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:56:26.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QZLIOVAKh5kadQ3bGRLSr4w8ywNHSzgLdHWB4rwUyp8=",
+  "Source": "Grind.Api",
+  "BasePath": "_content/Grind.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

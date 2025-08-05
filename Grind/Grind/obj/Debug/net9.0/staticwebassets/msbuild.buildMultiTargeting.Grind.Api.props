@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Grind.Api.props" />
+</Project>

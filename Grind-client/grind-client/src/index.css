@@ -1,0 +1,12 @@
+/* src/index.css */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%; /* ודאי שהגובה הוא 100% כדי ש-MUI יעבוד היטב */
+  width: 100%;
+  font-family: 'Roboto', sans-serif; /* פונט ברירת המחדל של MUI */
+}
+
+body {
+    background-color: #f4f6f8; /* צבע רקע כללי בהיר */
+}
